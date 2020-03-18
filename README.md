@@ -3,7 +3,7 @@
 >Le snake, de l’anglais signifiant « serpent », est un genre de jeu vidéo dans lequel le joueur dirige une ligne qui grandit et constitue ainsi elle-même un obstacle. Bien que le concept tire son origine du jeu vidéo d’arcade Blockade développé et édité par Gremlin Industries en 1976, il n’existe pas de version standard. Son concept simple l’a amené à être porté sur l’ensemble des plates-formes de jeu existantes sous des noms de clone.
 >
 >Le joueur contrôle une longue et fine ligne semblable à un serpent, qui doit slalomer entre les bords de l’écran et les obstacles qui parsèment le niveau. Pour gagner chacun des niveaux, le joueur doit faire manger à son serpent un certain nombre de pastilles similaire à de la nourriture, allongeant à chaque fois la taille du serpent. Alors que le serpent avance inexorablement, le joueur ne peut que lui indiquer une direction à suivre (en haut, en bas, à gauche, à droite) afin d’éviter que la tête du serpent ne touche les murs ou son propre corps, auquel cas il risque de mourir.
-> wikipedia https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o)
+> wikipedia https://fr.wikipedia.org/wiki/Snake_(genre_de_jeu_vid%C3%A9o) 
 
 
 ## Le jeu
